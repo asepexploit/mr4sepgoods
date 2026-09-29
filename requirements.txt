@@ -1,0 +1,7 @@
+websocket-client>=1.7
+customtkinter>=5.2
+python-dotenv>=1.0
+tldextract>=5.1
+ruff>=0.6
+pytest>=8
+pyinstaller>=6
